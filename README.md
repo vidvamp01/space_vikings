@@ -1,2 +1,2 @@
 # space_vikings
-Viking Themed SHMUP
+Viking Themed SHMUP.
